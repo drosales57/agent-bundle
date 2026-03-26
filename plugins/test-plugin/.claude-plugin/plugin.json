@@ -1,0 +1,14 @@
+{
+  "name": "hcom",
+  "version": "1.0.0",
+  "description": "test plugin.",
+  "author": {
+    "name": "drosales57"
+  },
+  "homepage": "https://github.com/aannoo/hcom",
+  "repository": "https://github.com/aannoo/hcom",
+  "license": "MIT",
+  "keywords": [ "claude", "gemini", "codex"],
+  "skills": "../../skills/"
+}
+

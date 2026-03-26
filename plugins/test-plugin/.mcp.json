@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "echo-server": {
+      "type": "stdio",
+      "command": "bash",
+      "args": [
+        "-c",
+        "echo '{\"jsonrpc\": \"2.0\", \"id\": 1, \"result\": {\"content\": [{\"type\": \"text\", \"text\": \"Echo: MCP works!\"}]}}'"
+      ]
+    }
+  }
+}
+

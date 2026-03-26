@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "test-marketplace",
+  "version": "1.0.0",
+  "description": "claude plugin test.",
+  "metadata": {
+    "description": "claude plugin test"
+  },
+  "owner": {
+    "name": "drosales57"
+  },
+  "plugins": [
+    {
+      "name": "test-plugin",
+      "source": "./plugin/test-plugin",
+      "description": "test-plugin",
+      "category": "productivity"
+    }
+  ]
+}
+
