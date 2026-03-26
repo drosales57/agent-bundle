@@ -9,6 +9,6 @@
   "repository": "https://github.com/aannoo/hcom",
   "license": "MIT",
   "keywords": [ "claude", "gemini", "codex"],
-  "skills": "../../skills/"
+  "skills": ["../../skills/", "../../claude-specific-skills"]
 }
 
