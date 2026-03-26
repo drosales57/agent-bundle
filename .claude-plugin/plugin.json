@@ -6,6 +6,6 @@
     "name": "drosales57"
   },
   "keywords": [ "claude", "gemini", "codex"],
-  "skills": "../../skills/"
+  "skills": ["./skills/", "./claude-specific-skills/"]
 }
 
