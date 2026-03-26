@@ -12,7 +12,7 @@
   "plugins": [
     {
       "name": "test-plugin",
-      "source": "./plugin/test-plugin",
+      "source": "./plugins/test-plugin",
       "description": "test-plugin",
       "category": "productivity"
     }
