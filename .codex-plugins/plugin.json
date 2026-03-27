@@ -1,7 +1,7 @@
 {
   "name": "test-codex-plugin",
   "version": "1.0.0",
-  "description": "test plugin.",
+  "description": "test codex plugin.",
   "author": {
     "name": "drosales57"
   },
@@ -10,10 +10,10 @@
     "gemini",
     "codex"
   ],
-  "skills": "./../../skills/",
-  "mcpServers": "./../.mcp.json",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "test-plugin",
+    "displayName": "test-codex-plugin",
     "shortDescription": "Codex version of the existing Claude test plugin.",
     "longDescription": "A Codex plugin that mirrors the existing Claude plugin bundle, including the happy and sad skills plus the sample MCP echo server.",
     "developerName": "drosales57",
