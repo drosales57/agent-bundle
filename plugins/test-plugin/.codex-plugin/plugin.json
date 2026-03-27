@@ -1,0 +1,32 @@
+{
+  "name": "test-codex-plugin",
+  "version": "1.0.0",
+  "description": "test plugin.",
+  "author": {
+    "name": "drosales57"
+  },
+  "keywords": [
+    "claude",
+    "gemini",
+    "codex"
+  ],
+  "skills": "./../../skills/",
+  "mcpServers": "./../.mcp.json",
+  "interface": {
+    "displayName": "test-plugin",
+    "shortDescription": "Codex version of the existing Claude test plugin.",
+    "longDescription": "A Codex plugin that mirrors the existing Claude plugin bundle, including the happy and sad skills plus the sample MCP echo server.",
+    "developerName": "drosales57",
+    "category": "Productivity",
+    "capabilities": [
+      "Skills",
+      "MCP"
+    ],
+    "defaultPrompt": [
+      "Use the happy skill to give me a positive message.",
+      "Use the sad skill to cheer me up.",
+      "Call the MCP echo server to verify the plugin works."
+    ],
+    "brandColor": "#2563EB"
+  }
+}
