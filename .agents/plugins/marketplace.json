@@ -8,7 +8,7 @@
       "name": "test-codex-plugin",
       "source": {
         "source": "local",
-        "path": "./"
+        "path": "./.codex/plugins/test-codex-marketplace"
       },
       "policy": {
         "installation": "AVAILABLE",
